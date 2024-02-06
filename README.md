@@ -15,4 +15,4 @@
 - nltk
 
 ## Results:
-- Naive Bayes gives the best accuracy of 98.95% on the test set and 99.3% on the validation set.
+- Naive Bayes gives the best accuracy of 98.95% on the test set and 99.3% on the validation set. It also lead to better precision and recall scores.
